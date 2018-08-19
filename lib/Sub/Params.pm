@@ -6,7 +6,7 @@ use warnings;
 
 package Sub::Params;
 
-our $VERSION = v1.0.0;
+our $VERSION = '1.0.0';
 
 use parent 'Exporter';
 
